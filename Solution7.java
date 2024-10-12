@@ -47,6 +47,11 @@ import java.util.PriorityQueue;
  *
  */
 
+/**
+ * 嗯嗯，不错不错。
+ *          ——HXC
+ */
+
 
 public class Solution7 {
 
